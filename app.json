@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "etoils-app",
+    "slug": "etoils-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.android.etoiles"
+     
+    },
+    "plugins": [
+      "@react-native-firebase/app"
+  
+    ],
+    "ios": {
+      "bundleIdentifier": "com.android.etoiles"
+    }
+  },
+  "name": "etoils-app"
+}
